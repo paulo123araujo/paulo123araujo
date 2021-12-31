@@ -3,13 +3,14 @@ I'm fullstack developer, but I like most backend.
 
 My main skills are:
 - PHP
-- Javascript
+- Javascript / TypeScript
 - Docker
 - Software Architecture
 
 I am learning about:
 - DDD (Domain-Driven Design)
 - Hexagonal, clean, onion architecture
+- Test-Driven Development
 
 The tecnological world is really amazing, there are a lot of freedom to be creatively, to apply what we learn in books, articles, courses in the real world.
 
