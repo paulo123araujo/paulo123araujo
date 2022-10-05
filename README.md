@@ -15,3 +15,7 @@ I am learning about:
 The tecnological world is really amazing, there are a lot of freedom to be creatively, to apply what we learn in books, articles, courses in the real world.
 
 You can reach me by [Linkedin](https://www.linkedin.com/in/paulo123araujo/) or [Email](mailto:paulofelipe_jau7654@hotmail.com)
+
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
